@@ -1,0 +1,73 @@
+   {
+	background: #fff;
+}
+.content{
+	float: right;
+	clear: both;
+
+}
+.image{
+	float: left;
+}
+.photo img{
+	border-radius: 100px;
+	float: left;
+}
+.about{
+	
+	float: right;
+}
+.about img{
+	border-radius: 100px;
+	margin: 10px;
+	height: 150px;
+	width: 150px;
+	background: #000;
+	border: 2px solid;
+	padding: 5px;
+}
+.me{
+	float: left;
+	margin-left: 400px;
+	background-repeat: repeat;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.project img{
+	width: ;
+
+}
+.social{
+background: #000;
+}
+
+.nav > li > a{color:; transition: all 0.3s ease-out; }
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: none;
+  margin-left: 10px;
+}
+
+footer img{
+	
+	height: 50px;
+	width: 50px;
+	margin: 15px;
+	border-radius: 10px;
+	display: inline-block;
+
+}
+footer{
+
+	
+	background: #2C3539;
+	padding: 20px;
+	margin-bottom: 10px;
+	opacity: 0.6;
+
+}
+footer h4,h3,h6 {
+	color: #fff;
+}
